@@ -1,6 +1,7 @@
 # lab3.1.5_random_fruit.py
 # This program prints out a random fruit
-# by Elaine Cazetta
+# Author Andrew Beatty
+# Reproduced by Elaine Cazetta
 
 import random
 

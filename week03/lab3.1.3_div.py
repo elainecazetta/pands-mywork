@@ -1,7 +1,8 @@
 # lab3.1.3_div.py
 # This program reads in two numbers and
 # outputs the integer answer and remainder
-# by Elaine Cazetta
+# Author Andrew Beatty
+# Reproduced by Elaine Cazetta
 
 x = int(input("Enter first number: "))
 y = int(input("Enter the number you want to divide by: "))

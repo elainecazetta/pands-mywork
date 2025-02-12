@@ -1,7 +1,8 @@
 # lab3.1.6_random_fruit_2.py
 # This program prints out a random fruit
 # Uses a turple rather than a list
-# by Elaine Cazetta
+# Author Andrew Beatty
+# Reproduced by Elaine Cazetta
 
 import random
 

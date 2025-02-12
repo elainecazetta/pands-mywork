@@ -1,7 +1,8 @@
 # lab3.1.1_test_types.py
 # This program create 5 variables (int, float, boolean, str, list)
 # and it uses the funtion type() to check the types of each variable
-# By Elaine Cazetta
+# Author Andrew Beatty
+# Reproduced by Elaine Cazetta
 
 i = 3
 fl = 3.5

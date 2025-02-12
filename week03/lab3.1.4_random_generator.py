@@ -1,6 +1,7 @@
 # lab3.1.4_random_generator
 # This program prints out a random number between 1 and 10
-# by Elaine Cazetta
+# Author Andrew Beatty
+# Reproduced by Elaine Cazetta
 
 import random
 
