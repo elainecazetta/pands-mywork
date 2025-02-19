@@ -1,7 +1,9 @@
+# Extra task - lab 4.2: 
+# 
 # This program prompts the user to guess a number
 # 
-# Extra task: get the program to generate a random 
-# number between 0 and 100 to guess
+# and it automatically generates a random number 
+# between 0 and 100 to guess
 # Author: Elaine Cazetta
 
 import random #source: https://www.programiz.com/python-programming/examples/random-number
