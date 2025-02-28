@@ -11,9 +11,9 @@
 
 num = int(input("Please enter a positive integer: "))
 while num != 1:
-    print(num, end=" ")  # Print sequence number with space (on the same line)
-    if num % 2 == 0: # If even, divide by 2
-        num = num // 2
+    print(num, end=" ")  # Print the sequence number with space on the same line
+    if num % 2 == 0: # If even,
+        num = num // 2 # divide it by 2
     else:
         num = (num * 3) + 1 # If odd, multiply by 3 and add 1
 print(num)  # Print the final number (1)    
