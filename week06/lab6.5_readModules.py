@@ -1,3 +1,6 @@
+# Creating functions
+# Author: Andrew Beatty
+# Reproduced by: Elaine Cazetta
 
 def readModules():
     modules = []

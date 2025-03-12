@@ -1,3 +1,7 @@
+# This program takes a positive floating-point number as input 
+# and outputs an approximation of its square root, 
+# through newton method at estimating square roots
+
 def sqrt(number):
     guess = number / 2.0
     tolerance = 0.0001

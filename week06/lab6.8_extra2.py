@@ -1,3 +1,7 @@
+# Creating functions
+# Author: Andrew Beatty
+# Reproduced by: Elaine Cazetta
+
 # a different way or dealing with the users choice
 
 def displayMenu():
