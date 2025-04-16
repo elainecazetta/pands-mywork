@@ -4,7 +4,7 @@
 # 1. create a simple data frame in python
 # 2 describe it
 # 3 output to csv file
-# 4 out put to excel file
+# 4 output to excel file
 # 5. add a sheet to the excel file
 # 6. print a piece of statisical information
 
